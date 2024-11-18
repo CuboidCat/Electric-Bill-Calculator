@@ -1,0 +1,10 @@
+C:\Users\firem\source\repos\CIT125-P3C\CIT125-P3C\obj\Debug\CIT125-P3C.csproj.AssemblyReference.cache
+C:\Users\firem\source\repos\CIT125-P3C\CIT125-P3C\obj\Debug\CIT125_P3C.Form1.resources
+C:\Users\firem\source\repos\CIT125-P3C\CIT125-P3C\obj\Debug\CIT125_P3C.Properties.Resources.resources
+C:\Users\firem\source\repos\CIT125-P3C\CIT125-P3C\obj\Debug\CIT125-P3C.csproj.GenerateResource.cache
+C:\Users\firem\source\repos\CIT125-P3C\CIT125-P3C\obj\Debug\CIT125-P3C.csproj.CoreCompileInputs.cache
+C:\Users\firem\source\repos\CIT125-P3C\CIT125-P3C\bin\Debug\Program 2.exe.config
+C:\Users\firem\source\repos\CIT125-P3C\CIT125-P3C\bin\Debug\Program 2.exe
+C:\Users\firem\source\repos\CIT125-P3C\CIT125-P3C\bin\Debug\Program 2.pdb
+C:\Users\firem\source\repos\CIT125-P3C\CIT125-P3C\obj\Debug\Program 2.exe
+C:\Users\firem\source\repos\CIT125-P3C\CIT125-P3C\obj\Debug\Program 2.pdb
